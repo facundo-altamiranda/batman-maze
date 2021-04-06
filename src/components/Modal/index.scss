@@ -1,0 +1,13 @@
+.batman-modal {
+    .rodal-dialog {
+        align-items: center;
+        background: transparent;
+        box-shadow: unset;
+        display: flex;
+        justify-content: center;
+        
+        .start-bottom {
+            bottom: 4.5rem
+        }
+    }
+}
